@@ -1,0 +1,52 @@
+body {
+    font-family: cursive;
+    background-color: yellowgreen;
+    color: #fff;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    margin: 0 auto;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+p {
+    width: 50%;
+    margin: 0 auto;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+label{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    margin: 0 auto;
+}
+input{
+
+    display: flex;
+    margin: 0 auto;
+    width: 10%;
+    text-decoration: none;
+}
